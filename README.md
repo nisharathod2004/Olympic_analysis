@@ -1,4 +1,4 @@
-# Olympic Analysis Using Tableau
+# Podium Power: Olympic Analysis
 
 ## **Overview**
 This project delves into the **"Olympics"** dataset, spanning from 1896 to 2016, to analyze key insights about athletes, sports, and medal distributions. Leveraging Tableau, this analysis highlights patterns and trends in the Olympic Games, providing actionable insights for the International Olympics Committee to improve planning and engagement for future events.
